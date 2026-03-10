@@ -18,6 +18,7 @@ We cleaned and analyzed a dataset of over 113,000 Spotify tracks.
 - **AshleyManzoMidterm.ipynb:** ***[FINAL SUBMISSION]*** The finalized Jupyter Notebook containing our completely merged machine learning pipeline and custom presentation visualizations.
 - **AI_Midterm.ipynb:** An earlier development notebook showcasing the initial machine learning architecture. Kept in the repository to highlight our collaborative workflow.
 - **dataset.csv:** The Spotify tracks dataset required to run the code.
+  https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 - **TheAudioFile.pdf:** Our final presentation slide deck.
 
 **Instructions:** To run the final code, simply open **AshleyManzoMidterm.ipynb** and ensure **dataset.csv** is uploaded to the root directory of your environment before running the cells.
